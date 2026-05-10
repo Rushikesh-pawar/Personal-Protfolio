@@ -15,6 +15,7 @@ export const publications: Publication[] = [
     date: "Oct 17, 2024",
     summary:
       "Presents the ALiVA framework: an end-to-end pipeline that fuses image, video, and LiDAR data from test vehicles to generate validated reference data used in ADAS/AD function development. Covers schema design, validation hooks, and the regression-style test suite that maintains correctness across pipeline stages.",
+    link: "/Towards_Automation_of_Reference_Data_Generation_for_ADAS.pdf",
   },
   {
     title:
@@ -23,5 +24,6 @@ export const publications: Publication[] = [
     date: "Oct 17, 2024",
     summary:
       "Benchmarks several generative AI architectures for extending and validating EV battery characterization datasets, comparing statistical fidelity, distribution alignment, and downstream-task accuracy across candidate methods.",
+    link: "/Comparative_Analysis_of_GenAI_Models_for_Extensions_and_Validation_of_EV_Battery_Characterization_Data.pdf",
   },
 ];

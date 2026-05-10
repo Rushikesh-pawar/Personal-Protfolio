@@ -1,4 +1,5 @@
-import { FileText } from "lucide-react";
+import Link from "next/link";
+import { FileText, ArrowUpRight } from "lucide-react";
 import { Section } from "./Section";
 import { publications } from "@/content/publications";
 
@@ -31,6 +32,16 @@ export function PublicationsSection() {
               <p className="mt-3 text-sm leading-relaxed text-muted">
                 {pub.summary}
               </p>
+              {pub.link && (
+                <Link
+                  href={pub.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 inline-flex items-center gap-1 text-sm text-accent transition-opacity hover:opacity-80"
+                >
+                  Read paper <ArrowUpRight size={14} />
+                </Link>
+              )}
             </div>
           </article>
         ))}

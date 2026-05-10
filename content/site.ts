@@ -16,6 +16,6 @@ export const site = {
     phone: "+1 (617) 505-8797",
     linkedin: "https://www.linkedin.com/in/rushikesh-p-173091b8",
     github: "https://github.com/Rushikesh-pawar",
-    resume: "/resume.pdf",
+    resume: "/Rushikesh_Pawar_Resume.pdf",
   },
 } as const;
