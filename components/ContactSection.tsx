@@ -47,7 +47,7 @@ export function ContactSection() {
   return (
     <Section
       id="contact"
-      eyebrow="07 · Contact"
+      eyebrow="08 · Contact"
       title="Let's talk"
       intro="Open to Summer 2026 internships, Fall 2026 co-ops, and full-time data science / ML engineering roles starting May 2027. The fastest way to reach me is email."
     >
