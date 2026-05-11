@@ -6,7 +6,7 @@ export const site = {
   location: "Boston, MA",
   status: "Open to Summer 2026 internships, Fall 2026 co-ops, and full-time roles starting May 2027.",
   about: [
-    "I'm a data scientist with 3.5 years of industry experience across automotive AI, multimodal data pipelines, and analytics. Most recently I spent 2.5 years at FEV — a German automotive engineering firm — building agentic data pipelines, LLM-based NLP systems, and a multimodal validation framework (ALiVA) for ADAS/AD reference data.",
+    "I'm a data scientist with 3.5 years of industry experience across automotive AI, multimodal data pipelines, and analytics. Most recently I spent 2.5 years at FEV, a German automotive engineering firm where I was building agentic data pipelines, LLM-based NLP systems, developing predictive models and evaluation metrics for EV batteries, and a multimodal validation framework (ALiVA) for ADAS/AD reference data.",
     "Now at Northeastern University in Boston, I'm pursuing a Master's in Computer Science to deepen my work on applied ML, large-language-model systems, and the engineering practices that make them reliable in production.",
     "I'm comfortable owning the full data-to-deployment loop: framing the problem mathematically, building the pipeline, defining the eval harness, and shipping a dashboard or interface that non-technical stakeholders can actually use.",
   ],

@@ -7,7 +7,7 @@ export function ExperienceSection() {
       id="experience"
       eyebrow="02 · Experience"
       title="Where I've worked"
-      intro="3.5 years of industry experience in data science and analytics — automotive AI at FEV (Germany–India) and analytics at Compserv Consultancy."
+      intro="3.5 years of industry experience in data science and analytics which includes automotive AI at FEV and analytics at Compserv Consultancy."
     >
       <div className="space-y-8">
         {experience.map((job) => (
