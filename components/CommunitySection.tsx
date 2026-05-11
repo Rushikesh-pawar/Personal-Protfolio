@@ -7,7 +7,7 @@ export function CommunitySection() {
       id="community"
       eyebrow="07 · Community"
       title="Beyond the work"
-      intro="Volunteering and community organizing I've been part of since 2018 — alongside the technical work."
+      intro="Volunteering and community organizing I've been part of since 2018, alongside the technical work."
     >
       <div className="space-y-6">
         {community.map((role) => (

@@ -16,11 +16,11 @@ export const community: CommunityRole[] = [
     end: "Jul 2019",
     location: "Hotel Virshali · Kolhapur, India",
     summary:
-      "Organized a fully-licensed TEDx event on 12 July 2019 — end-to-end ownership across speaker curation, venue logistics, sponsorship, promotion, and stage management.",
+      "Organized a fully licensed TEDx event on 12 July 2019, with ownership across speaker curation, venue logistics, sponsorship, promotion, and stage management.",
     highlights: [
-      "Ran the full event lifecycle: speaker outreach and curation, sponsor pitches, and on-day program direction.",
-      "Led the digital marketing and promotion effort across social channels in the lead-up to the event.",
-      "Hands-on with budgeting and accounting through the event — closed the books cleanly post-event.",
+      "Ran the full event lifecycle, from speaker outreach and curation to sponsor pitches and on day program direction.",
+      "Led the digital marketing and promotion effort across social channels in the lead up to the event.",
+      "Hands on with budgeting and accounting through the event, and closed the books cleanly after.",
     ],
   },
   {
@@ -30,7 +30,7 @@ export const community: CommunityRole[] = [
     end: "Present",
     location: "Kolhapur, India",
     summary:
-      "Active member of a registered NGO that runs sustained social-impact programming — blood and platelet donation drives, support for a school for blind children, and city-wide cleanliness drives.",
+      "Active member of a registered NGO that runs sustained social impact programming, including blood and platelet donation drives, support for a school for blind children, and city wide cleanliness drives.",
   },
   {
     org: "Robin Hood Army",
@@ -39,6 +39,6 @@ export const community: CommunityRole[] = [
     end: "Present",
     location: "Kolhapur, India",
     summary:
-      "Volunteer with a zero-funds, all-volunteer organization that recovers surplus food from restaurants and the community and redistributes it to people in need. I help with distribution drives whenever I'm in town.",
+      "Volunteer with a zero funds, all volunteer organization that recovers surplus food from restaurants and the community and redistributes it to people in need. I help with distribution drives whenever I am in town.",
   },
 ];

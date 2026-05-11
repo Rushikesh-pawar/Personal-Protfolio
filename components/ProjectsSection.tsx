@@ -9,7 +9,7 @@ export function ProjectsSection() {
       id="projects"
       eyebrow="03 · Projects"
       title="Selected work"
-      intro="Personal projects spanning applied ML, deep learning, NLP, and full-stack engineering — each one shipped end-to-end with code on GitHub."
+      intro="Personal projects spanning applied ML, deep learning, NLP, and full stack engineering. Each one shipped with code on GitHub."
     >
       <div className="grid gap-6 md:grid-cols-2">
         {projects.map((project) => (
