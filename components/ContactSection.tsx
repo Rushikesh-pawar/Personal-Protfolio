@@ -89,7 +89,7 @@ export function ContactSection() {
               Resume
             </h3>
             <p className="text-sm text-muted">
-              The latest PDF of my resume — print-friendly and ATS-friendly.
+              The latest PDF of my resume.
             </p>
           </div>
           <Link
